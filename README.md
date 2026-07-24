@@ -95,6 +95,7 @@ The project includes SQL queries for:
 
 ---
 
+```
 ---Create Database
 CREATE DATABASE Online_Bookstore;
 
@@ -320,7 +321,7 @@ GROUP BY c.customer_id, c.name
 ORDER BY Total_Spent DESC
 LIMIT 1;
 
-
+```
 
 
 # Findings
